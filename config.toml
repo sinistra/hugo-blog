@@ -1,0 +1,19 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My Hugo Blog"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Hugo Blog"
+    description = "My description"
+    github = "https://github.com/sinistra"
+    twitter = "https://twitter.com/XXX"
+    email = "paul@nms.com.au"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
