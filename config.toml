@@ -3,7 +3,7 @@ baseURL = "https://blog.nms.com.au"
 title = "My doc blog"
 #themesDir = "../.."
 theme = "m10c"
-paginate = 5
+paginate = 7
 
 [params]
   author = "Paul Taylor"
